@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MatejTestingConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "day=2"
+    }
+  }
+}
